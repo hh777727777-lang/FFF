@@ -1,6 +1,17 @@
-对话模板 = 对话模板.txt
-破冰 = 破冰.txt
-自介 = 自介.txt
-问卷 = 问卷.txt
-邀请 = 邀请.txt
-收尾 = 收尾.txt
+你觉得未来最大的机会来自哪里？ A. 人工智能  B. 清洁能源  C. 生物科技 || Where do you think the biggest opportunities will come from? A. AI  B. Clean Energy  C. Biotechnology
+你积累的核心目标是什么？ A. 更好的生活质量  B. 自由  C. 安全感 || What motivates you to build wealth? A. Better lifestyle  B. Freedom  C. Security
+
+你认为未来决定增长的力量是什么？ A. 技术突破  B. 消费升级  C. 医疗创新 || What do you believe drives future growth? A. Tech breakthroughs  B. Consumer upgrades  C. Medical innovation
+你更重视什么？ A. 信息质量  B. 行动速度  C. 合适的人脉 || What matters most to you? A. Quality information  B. Speed of action  C. Right connections
+
+当你判断趋势时更依赖什么？ A. 数据与逻辑  B. 直觉判断  C. 他人的成功案例 || When judging a trend, what drives your decision? A. Data & logic  B. Intuition  C. Success cases
+你倾向哪种策略？ A. 提前布局  B. 等结果明确再行动 || Which approach fits you? A. Early positioning  B. Wait until confirmed
+
+你更看重哪种机会？ A. 长期趋势  B. 短期收益 || What matters more to you? A. Long-term trend  B. Short-term gain
+你希望多久看到结果？ A. 3-6 个月  B. 6-12 个月  C. 时间不是问题 || How soon do you prefer to see results? A. 3–6 months  B. 6–12 months  C. Timeline doesn’t matter
+
+你更愿意通过哪种方式了解趋势？ A. 自己研究  B. 跟随方向清晰的人 || How do you prefer to learn about trends? A. Self-research  B. Follow people with clear direction
+你做事情更像？ A. 独立思考者  B. 信息吸收者 || You see yourself as? A. Independent thinker  B. Information absorber
+
+当趋势来临时，你希望自己是？ A. 第一个知道的人  B. 跟随趋势的人 || When a trend appears, you want to be? A. First to know  B. Follow the trend
+你对未来的期待更偏向？ A. 方向感  B. 稳定的节奏 || What do you prefer for your future? A. Direction  B. Steady pace
